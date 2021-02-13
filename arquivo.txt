@@ -15,4 +15,3 @@ git push origin master
 ssh-keygen -t rsa -C "otaviomirandabr19@gmail.com"
 cat ~/.ssh/id_rsa.pub
 
-# OI
